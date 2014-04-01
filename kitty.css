@@ -1,0 +1,45 @@
+body {
+    margin: 0 auto;
+    background: url("kociesladymini.jpg");
+}
+.wrapper {
+	width: 990px;
+	height: 700px;
+	margin: auto;
+	background-color:#f8f8f8;
+	border-left: 1px solid grey;
+    border-right: 1px solid grey;
+}
+header {
+	width: 741px;
+	height: 534px;
+	border-radius: 100%;
+	border: 2px solid grey;
+    margin: auto;
+	background: url("kitty_rysunek.jpg") no-repeat;
+	text-align: center;
+}
+h1 {
+	margin-top: 550px;
+	margin-bottom: 8px;
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 70px;
+    color:#484848;
+    background-color: #f8f8f8;
+}
+nav li {
+	list-style-type: none;
+	display: inline;
+}
+nav a {
+	text-decoration: none;
+	color:#484848;
+	font-family: Tahoma;
+	font-size: 16px;
+	padding-right: 15px;
+	padding-left: 14px;
+}
+nav a:hover {
+	color: #ff9900;
+}
+
